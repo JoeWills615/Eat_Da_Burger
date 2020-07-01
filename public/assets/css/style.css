@@ -1,11 +1,11 @@
-body {
-  background-image: ;
-}
-
 .jumbotron {
-  background-color: antiquewhite;
+    background-color: rgb(13, 212, 13);
 }
 
 .card {
-  background-color: antiquewhite;
+    background-color: rgb(6, 146, 104);
+}
+
+body { 
+    background-color: rgb(202, 89, 13);
 }
