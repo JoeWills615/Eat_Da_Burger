@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cfergus7/burger.git"
+    "url": "git+https://github.com/JoeWills615/Eat_Da_Burger"
   },
   "author": "Joe Wills",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cfergus7/burger/issues"
+    "url": "https://github.com/JoeWills615/Eat_Da_Burger/issues"
   },
-  "homepage": "https://github.com/cfergus7/burger#readme",
+  "homepage": "https://joewills615.github.io/Eat_Da_Burger/",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
